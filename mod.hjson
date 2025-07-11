@@ -1,0 +1,8 @@
+name: ssw
+displayName: Show Sandbox Buildings
+author: Raviravirego
+description: 
+version: 1.0
+minGameVersion: 146
+dependencies: [ ]
+hidden: true
